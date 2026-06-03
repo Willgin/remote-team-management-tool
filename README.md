@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-remote.team-blue?style=for-the-badge)](https://remote.team)
 [![Encryption](https://img.shields.io/badge/Security-End--to--End%20Encrypted-green?style=for-the-badge)](https://remote.team)
-[![Pricing](https://img.shields.io/badge/Pricing-Free%20till%20Aug%202026-orange?style=for-the-badge)](https://remote.team)
+[![Pricing](https://img.shields.io/badge/Pricing-Free%20till%20Aug%202026-orange?style=for-the-badge)](https://remote.team/en/pricelist)
 
 **Remote.Team** is a confidential workspace for communication and task management, protected by end-to-end encryption. We provide what industry giants have forgotten about — peace of mind. Calm teamwork without notification spam and with reliable data protection, so you can focus on important tasks and achieve results without unnecessary stress.
 
